@@ -1,7 +1,7 @@
 body{
     background:#87CEEB;
     color:#FFFFFF;
-    width:100%
+    width:100%;
     font-family: 'Montserrat', sans-serif;
     margin:0 auto;
 }
@@ -24,7 +24,7 @@ body{
     height:50px;
     line-height:50px;
     position:relative;
-    width:90%
+    width:90%;
     margin:0 auto;
     padding:0 auto;
 }
